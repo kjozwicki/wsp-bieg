@@ -11,7 +11,9 @@
     <ItemGroup>
       <Folder Include="Model" />
       <Folder Include="Presentation\ViewModel" />
-      <Folder Include="Tests" />
+      <Folder Include="Tests\LogicTests" />
+      <Folder Include="Tests\ModelTests" />
+      <Folder Include="Tests\PresentationTests" />
     </ItemGroup>
 
     <ItemGroup>
