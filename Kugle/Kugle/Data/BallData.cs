@@ -1,6 +1,6 @@
 namespace Data
 {
-    internal class BallData
+    public class BallData
     {
         private int _xPosition;
         private int _yPosition;
