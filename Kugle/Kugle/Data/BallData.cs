@@ -2,24 +2,21 @@ namespace Data
 {
     public class BallData
     {
-        private int _xPosition;
-        private int _yPosition;
+        public int _xPosition;
+        public int _yPosition;
         private int _xSpeed;
         private int _ySpeed;
         private bool _moving = true;
-
         private const int FluentMoveTime = 8;
-
-        public BallData(int xPosition, int yPosition, int radius, int weight, int xSpeed, int ySpeed)
+        public BallData(int xP, int yP, int r, int w, int xS, int yS)
         {
-            _xPosition = xPosition;
-            _yPosition = yPosition;
-            _xSpeed = xSpeed;
-            _ySpeed = ySpeed;
-            Radius = radius;
-            Weight = weight;
+            _xPosition = xP;
+            _yPosition = yP;
+            _xSpeed = xS;
+            _ySpeed = yS;
+            Radius = r;
+            Weight = w;
         }
-
         public int XPosition
         {
             get => _xPosition;
@@ -28,7 +25,6 @@ namespace Data
                 _xPosition = value;
             }
         }
-
         public int YPosition
         {
             get => _yPosition;
@@ -37,11 +33,8 @@ namespace Data
                 _yPosition = value;
             }
         }
-
         public int Weight { get; }
-
         public int Radius { get; }
-
         public int XSpeed
         {
             get => _xSpeed;
@@ -50,7 +43,6 @@ namespace Data
                 _xSpeed = value;
             }
         }
-
         public int YSpeed
         {
             get => _ySpeed;
