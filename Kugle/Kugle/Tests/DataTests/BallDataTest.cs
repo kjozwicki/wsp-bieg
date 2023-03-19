@@ -1,10 +1,10 @@
 using Data;
 
-namespace DataTests
+namespace BallDataTest
 {
     public class BallDataTest
     {
-        private BallData _ball = new BallData(0, 0, 1, 2, 1, 10);
+        BallData _ball = new BallData(0, 0, 1, 2, 1, 10);
         
         public void CreateBallTest()
         {
@@ -19,7 +19,7 @@ namespace DataTests
             _ball.XSpeed = 2;
             _ball.YSpeed = 3;
             Assert.AreEqual(2, _ball.XSpeed);
-            Assert.AreEqual(3, _ball.YSpeed);
+            Assert.AreEqual(3, _ball.XSpeed);
         }
     }
 }

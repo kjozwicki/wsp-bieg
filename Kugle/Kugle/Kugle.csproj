@@ -32,4 +32,8 @@
       </Page>
     </ItemGroup>
 
+    <ItemGroup>
+      <PackageReference Include="MSTest.TestFramework" Version="2.2.10" />
+    </ItemGroup>
+
 </Project>
