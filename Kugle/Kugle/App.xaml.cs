@@ -15,7 +15,11 @@ namespace Kugle
     {
         protected override void OnStartup(StartupEventArgs e)
         {
-            Console.WriteLine("cebulabulabulala");
+        }
+
+        protected override void on(StartupEventArgs e)
+        {
+            
         }
     }
 }
