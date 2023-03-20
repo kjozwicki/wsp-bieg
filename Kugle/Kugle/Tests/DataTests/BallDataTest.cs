@@ -1,11 +1,13 @@
 using Data;
-
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace BallDataTest
 {
+    [TestClass]
     public class BallDataTest
     {
         BallData _ball = new BallData(0, 0, 1, 2, 1, 10);
         
+        [TestMethod]
         public void CreateBallTest()
         {
             Assert.AreEqual(1, _ball.XSpeed);
@@ -14,12 +16,13 @@ namespace BallDataTest
             Assert.AreEqual(2, _ball.Weight);
         }
         
+        [TestMethod]
         public void SetBallSpeedTest()
         {
             _ball.XSpeed = 2;
             _ball.YSpeed = 3;
             Assert.AreEqual(2, _ball.XSpeed);
-            Assert.AreEqual(3, _ball.XSpeed);
+            Assert.AreEqual(3, _ball.YSpeed);
         }
     }
 }
