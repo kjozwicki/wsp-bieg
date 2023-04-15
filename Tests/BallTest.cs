@@ -1,11 +1,12 @@
-using Data;
+
+using Logic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-namespace BallDataTest
+namespace Tests
 {
     [TestClass]
     public class BallDataTest
     {
-        BallData _ball = new BallData(0, 0, 1, 2, 1, 10);
+        Ball _ball = new Ball(0, 0, 1, 2, 1, 10);
         
         [TestMethod]
         public void CreateBallTest()

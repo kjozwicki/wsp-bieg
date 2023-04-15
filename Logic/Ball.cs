@@ -1,6 +1,6 @@
-namespace Data
+namespace Logic
 {
-    public class BallData
+    public class Ball
     {
         public int _xPosition;
         public int _yPosition;
@@ -8,7 +8,7 @@ namespace Data
         private int _ySpeed;
         private bool _moving = true;
         private const int FluentMoveTime = 8;
-        public BallData(int xP, int yP, int r, int w, int xS, int yS)
+        public Ball(int xP, int yP, int r, int w, int xS, int yS)
         {
             _xPosition = xP;
             _yPosition = yP;
