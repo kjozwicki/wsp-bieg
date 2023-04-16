@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{019A39E2-3BB5-4111-84EE-D61B6956180E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{E03AB3E7-409D-46DE-B1F8-E2E95C28BA99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,10 @@ Global
 		{019A39E2-3BB5-4111-84EE-D61B6956180E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{019A39E2-3BB5-4111-84EE-D61B6956180E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{019A39E2-3BB5-4111-84EE-D61B6956180E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FB3CF925-A03B-4D69-9162-48C9F92B24CA} = {E03AB3E7-409D-46DE-B1F8-E2E95C28BA99}
+		{F95CA830-EB53-46E2-808A-C6EDE8C4E857} = {E03AB3E7-409D-46DE-B1F8-E2E95C28BA99}
+		{32C365B0-4EF5-48E9-BE6F-D83BE4235684} = {E03AB3E7-409D-46DE-B1F8-E2E95C28BA99}
 	EndGlobalSection
 EndGlobal

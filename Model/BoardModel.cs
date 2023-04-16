@@ -2,7 +2,7 @@ using System;
 
 namespace Model
 {
-    public class Model
+    public class BoardModel
     {
     }
 }
