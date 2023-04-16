@@ -8,8 +8,10 @@ namespace Tests
     public class DataTest {
 
         [TestMethod]
-        public void DataAbstractAPItest() {
-            DataAbstractAPI api = DataAbstractAPI.createAPI();
+        public void DataAbstractAPItest()
+        {
+            DataAbstractAPI api;
+            api = DataAbstractAPI.CreateAPI();
 
             Assert.IsInstanceOfType(api, typeof(DataAbstractAPI));
         }
