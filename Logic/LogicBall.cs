@@ -39,7 +39,7 @@ namespace Logic
             X = ball._xPosition;
             Y = ball._yPosition;
             BoardLogicAbstractAPI.CreateLayer().CheckBoundariesCollision(this);
-            BoardLogicAbstractAPI.CreateLayer().CheckCollisionsWithBalls(this);
+         
         }
         private readonly Ball ball;
         public LogicBall(Ball b)

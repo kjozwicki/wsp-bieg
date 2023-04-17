@@ -10,7 +10,7 @@
         <viewmodel:BoardViewModel/>
     </Window.DataContext>
     <Grid>
-        <ItemsControl ItemsSource="{Binding Balls}" Width="{Binding WindowWidth}" Height="{Binding WindowHeight}" Margin="25,10,25,0" VerticalAlignment="Top">
+        <ItemsControl ItemsSource="{Binding Balls}" Width="{Binding WindowWidth}" Height="{Binding WindowHeight}" Margin="0,0,0,-20" VerticalAlignment="Top" HorizontalAlignment="Left">
             <ItemsControl.ItemsPanel>
                 <ItemsPanelTemplate>
                     <Canvas Background="#FFBBBBBB"/>
@@ -24,7 +24,7 @@
             </ItemsControl.ItemContainerStyle>
             <ItemsControl.ItemTemplate>
                 <DataTemplate>
-                    <Path Fill="#FA8072">
+                    <Path Fill="#FA8072" Stroke="Black">
                         <Path.Data>
                             <EllipseGeometry RadiusX="{Binding Radius}" RadiusY="{Binding Radius}"/>
                         </Path.Data>
@@ -32,11 +32,11 @@
                 </DataTemplate>
             </ItemsControl.ItemTemplate>
         </ItemsControl>
-        <Grid Panel.ZIndex="2" VerticalAlignment="Bottom" HorizontalAlignment="Center" Margin="0,0,0,25">
-            <TextBlock Text="Ilość kul:" Margin="0,2,0,-2"/>
-            <TextBox Text="{Binding Count}"  Margin="150,2,0,-2" HorizontalAlignment="Left" Width="208"/>
-            <Button Command="{Binding StartCommand}" Content="Start" Margin="403,2,0,-2" HorizontalAlignment="Left" Width="100"/>
-            <Button Command="{Binding StopCommand}" Content="Stop" Margin="547,0,0,0" HorizontalAlignment="Left" Width="100"/>
+        <Grid Panel.ZIndex="2" HorizontalAlignment="Right" Margin="800,0,0,25">
+            <TextBlock Text="Piłki:" Margin="0,480,0,-2"/>
+            <TextBox Text="{Binding Count}"  Margin="0,500,40,-2" HorizontalAlignment="Center" VerticalAlignment="Top" Width="208"/>
+            <Button Command="{Binding StartCommand}" Content="Start" Margin="0,560,30,50" HorizontalAlignment="Center" VerticalAlignment="Bottom" Width="100"/>
+            <Button Command="{Binding StopCommand}" Content="Stop" Margin="0,400,30,0" HorizontalAlignment="Center" VerticalAlignment="Bottom" Width="100"/>
         </Grid>
     </Grid>
 </Window>

@@ -14,8 +14,8 @@ namespace ViewModel
         public BoardViewModel()
         {
             viewModelBalls= new();
-            WindowHeight = 640;
-            WindowWidth = 1230;
+            WindowHeight = 720;
+            WindowWidth = 1000;
             BoardModel = new BoardModel(WindowWidth, WindowHeight);
             StartCommand = new RelayCommandBase(Start);
             StopCommand = new RelayCommandBase(Stop);

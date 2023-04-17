@@ -18,14 +18,14 @@ namespace Data
         private int _ySpeed;
         private bool _moving = true;
         private const int FluentMoveTime = 8;
-        public Ball(int xP, int yP, int r, int w, int xS, int yS)
+        public Ball(int xP, int yP, int r, int xS, int yS)
         {
             _xPosition = xP;
             _yPosition = yP;
             _xSpeed = xS;
             _ySpeed = yS;
             Radius = r;
-            Weight = w;
+   
         }
         public Ball( int xP, int yP)
         {
@@ -33,7 +33,7 @@ namespace Data
             Radius = 15;
             _xPosition = xP;
             _yPosition = yP;
-            Weight = 5;
+        
             while (XSpeed == 0)
             {
                 XSpeed = rnd.Next(-3, 4);
@@ -60,7 +60,7 @@ namespace Data
                 _yPosition = value;
             }
         }
-        public int Weight { get; }
+    
         public int Radius { get; }
         public void Move()
         {

@@ -6,7 +6,7 @@ namespace Tests
     [TestClass]
     public class BallDataTest
     {
-        Ball _ball = new Ball(0, 0, 1, 2, 1, 10);
+        Ball _ball = new Ball(0, 0, 1,  1, 10);
         
         [TestMethod]
         public void CreateBallTest()
@@ -14,7 +14,7 @@ namespace Tests
             Assert.AreEqual(1, _ball.XSpeed);
             Assert.AreEqual(10, _ball.YSpeed);
             Assert.AreEqual(1, _ball.Radius);
-            Assert.AreEqual(2, _ball.Weight);
+        
         }
         
         [TestMethod]
