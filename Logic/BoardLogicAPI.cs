@@ -19,6 +19,7 @@ namespace Logic
         public abstract void StartThreads();
 
         public abstract void CheckBoundariesCollision(LogicBall ball);
+        public abstract void CheckCollisionsWithBalls(LogicBall ball);
 
    
 
@@ -47,7 +48,21 @@ namespace Logic
                 return logicBalls;
             }
             
-
+            private static bool BallsCollission(LogicBall ball)
+            {
+                foreach (LogicBall b in ballsCollection)
+                {
+                    double distance = Math.Ceiling(Math.Sqrt(Math.Pow((b.GetX() - ball.GetX()), 2) + Math.Pow((b.GetY() - ball.GetY()), 2)));
+                    if (b != ball && distance <= (b.GetRadius() + ball.GetRadius()) && checkBallBoundary(ball))
+                    {
+                        ball.ChangeXDirection();
+                        ball.ChangeYDirection();
+                        return true;
+                    }
+                }
+                return false;
+            }
+            
             public static void UpdateBallSpeed(LogicBall ball)
             {
                 if (ball.GetY() - ball.GetRadius() <= 0 || ball.GetY() + ball.GetRadius() >= height)
@@ -70,7 +85,10 @@ namespace Logic
                 UpdateBallSpeed(ball);
             }
 
- 
+            public override void CheckCollisionsWithBalls(LogicBall ball)
+            {
+                BallsCollission(ball);
+            }
 
             public override void InterruptThreads()
             {
