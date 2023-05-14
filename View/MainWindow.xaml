@@ -24,7 +24,7 @@
             </ItemsControl.ItemContainerStyle>
             <ItemsControl.ItemTemplate>
                 <DataTemplate>
-                    <Path Fill="#FA8072" Stroke="Black">
+                    <Path Fill="{Binding Color}" Stroke="Black">
                         <Path.Data>
                             <EllipseGeometry RadiusX="{Binding Radius}" RadiusY="{Binding Radius}"/>
                         </Path.Data>

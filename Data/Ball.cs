@@ -1,6 +1,7 @@
 using System;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
+using System.Threading;
 
 namespace Data
 {
@@ -17,23 +18,16 @@ namespace Data
         private int _xSpeed;
         private int _ySpeed;
         private bool _moving = true;
-        private const int FluentMoveTime = 8;
-        public Ball(int xP, int yP, int r, int xS, int yS)
-        {
-            _xPosition = xP;
-            _yPosition = yP;
-            _xSpeed = xS;
-            _ySpeed = yS;
-            Radius = r;
-   
-        }
+        public string Color { get; set; }
+        public double Weight { get; set; }
         public Ball( int xP, int yP)
         {
             Random rnd = new();
             Radius = 15;
             _xPosition = xP;
             _yPosition = yP;
-        
+            Color = String.Format("#{0:X6}", rnd.Next(0x1000000));
+            Weight = 5.0;
             while (XSpeed == 0)
             {
                 XSpeed = rnd.Next(-3, 4);

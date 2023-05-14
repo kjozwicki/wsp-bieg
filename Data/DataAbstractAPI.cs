@@ -62,7 +62,6 @@ namespace Data
             {
                 return board.GetBoardWidth();
             }
-
         }
     }
 }

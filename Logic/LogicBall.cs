@@ -66,5 +66,10 @@ namespace Logic
         {
             return ball.Radius;
         }
+
+        public String GetColor()
+        {
+            return ball.Color;
+        }
     }
 }

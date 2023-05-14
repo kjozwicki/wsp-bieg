@@ -36,7 +36,7 @@ namespace ViewModel
         {
             foreach(LogicBall LogicBall in BoardModel.GetStartingBallPositions(Count))
             {
-                ModelBall ball = new ModelBall(LogicBall.GetX(), LogicBall.GetY(), LogicBall.GetRadius());
+                ModelBall ball = new ModelBall(LogicBall.GetX(), LogicBall.GetY(), LogicBall.GetRadius(), LogicBall.GetColor());
                 viewModelBalls.Add(ball);
                 LogicBall.PropertyChanged += ball.Update!;
             }
