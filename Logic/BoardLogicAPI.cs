@@ -32,13 +32,13 @@ namespace Logic
 
             public override ObservableCollection<LogicBall> CreateBalls(double boardWidth, double boardHeight, int ballCount)
             {
-                List<Ball> balls = new();
+                List<AbstractBall> balls = new();
                 ObservableCollection<LogicBall> logicBalls = new();
                 DataLayer.CreateBoardWithBalls(ballCount, boardWidth, boardHeight);
                 height = DataLayer.GetBoardHeight();
                 width = DataLayer.GetBoardWidth();
                 balls = DataLayer.GetBalls();
-                foreach (Ball b in balls)
+                foreach (AbstractBall b in balls)
                 {
                     LogicBall logicBall = new LogicBall(b);
                     b.PropertyChanged += logicBall.Update!;

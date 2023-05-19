@@ -35,14 +35,14 @@ namespace Logic
         }
         public void Update(Object s, PropertyChangedEventArgs e)
         {
-            Ball ball = (Ball)s; 
+            AbstractBall ball = (AbstractBall)s; 
             X = ball._xPosition;
             Y = ball._yPosition;
             BoardLogicAbstractAPI.CreateLayer().CheckBoundariesCollision(this);
             BoardLogicAbstractAPI.CreateLayer().CheckCollisionsWithBalls(this);
         }
-        private readonly Ball ball;
-        public LogicBall(Ball b)
+        private readonly AbstractBall ball;
+        public LogicBall(AbstractBall b)
         {
             ball = b;
         }

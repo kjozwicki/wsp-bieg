@@ -1,24 +1,18 @@
 using System;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
-using System.Threading;
+using System.Diagnostics;
 
 namespace Data
 {
-    public class Ball
+    class Ball : AbstractBall, INotifyPropertyChanged
     {
-        public event PropertyChangedEventHandler? PropertyChanged;
+        public override event PropertyChangedEventHandler? PropertyChanged;
 
         protected void OnPropertyChanged([CallerMemberName] string propertyName = null)
         {
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
-        public int _xPosition;
-        public int _yPosition;
-        private int _xSpeed;
-        private int _ySpeed;
-        private bool _moving = true;
-        public string Color { get; set; }
         public double Weight { get; set; }
         public Ball( int xP, int yP)
         {
@@ -28,62 +22,27 @@ namespace Data
             _yPosition = yP;
             Color = String.Format("#{0:X6}", rnd.Next(0x1000000));
             Weight = 5.0;
-            while (XSpeed == 0)
+            while (_xSpeed == 0)
             {
-                XSpeed = rnd.Next(-3, 4);
+                _xSpeed = rnd.Next(-3, 4);
             }
-            while (YSpeed == 0)
+            while (_ySpeed == 0)
             {
-                YSpeed = rnd.Next(-3, 4);
-            }
-        }
-
-        public int XPosition
-        {
-            get => _xPosition;
-            internal set
-            {
-                _xPosition = value;
+                _ySpeed = rnd.Next(-3, 4);
             }
         }
-        public int YPosition
+        internal override void Move()
         {
-            get => _yPosition;
-            internal set
-            {
-                _yPosition = value;
-            }
-        }
-    
-        public int Radius { get; }
-        public void Move()
-        {
-            this._xPosition += this.XSpeed;
-            this._yPosition += this.YSpeed;
+            this._xPosition += this._xSpeed;
+            this._yPosition += this._ySpeed;
             OnPropertyChanged("Move");
         }
-        public int XSpeed
-        {
-            get => _xSpeed;
-            set
-            {
-                _xSpeed = value;
-            }
-        }
-        public int YSpeed
-        {
-            get => _ySpeed;
-            set
-            {
-                _ySpeed = value;
-            }
-        }
-        public void ChangeXDirection()
+        public override void ChangeXDirection()
         {
             this._xSpeed *= -1;
         }
 
-        public void ChangeYDirection()
+        public override void ChangeYDirection()
         {
             this._ySpeed *= -1;
         }

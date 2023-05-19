@@ -1,8 +1,13 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6a415087_002D263e_002D4b5f_002Da550_002Db29de3c64143/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="DataTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6a415087_002D263e_002D4b5f_002Da550_002Db29de3c64143/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="DataTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;MSTest::019A39E2-3BB5-4111-84EE-D61B6956180E::net7.0-windows::Tests.DataTest&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;MSTest::019A39E2-3BB5-4111-84EE-D61B6956180E::net7.0-windows::Tests.BallDataTest&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;MSTest::019A39E2-3BB5-4111-84EE-D61B6956180E::net7.0-windows::Tests.BoardTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d5ec0838_002D3dbb_002D4fd7_002D940c_002D48349b1383cb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="BallDataTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::019A39E2-3BB5-4111-84EE-D61B6956180E::net7.0-windows::Tests.BallDataTest&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

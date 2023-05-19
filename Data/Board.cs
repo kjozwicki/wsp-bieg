@@ -10,7 +10,7 @@ namespace Data
     internal class Board
     {
         private readonly Object locked = new();
-        private List<Ball> balls = new();
+        private List<AbstractBall> balls = new();
         private Collection<Thread> threads = new();
         private double boardHeight;
         private double boardWidth;
@@ -36,14 +36,14 @@ namespace Data
                     xposition = rnd.Next(30, (int)boardWidth - 30);
                     yposition = rnd.Next(30, (int)boardHeight - 30);
                 }
-                balls.Add(new Ball(xposition, yposition));
+                balls.Add(AbstractBall.CreateBall(xposition, yposition));
             }
         }
 
         private bool CanCreate(int x, int y)
         {
             if (balls.Count == 0) return true;
-            foreach (Ball b in balls)
+            foreach (AbstractBall b in balls)
             {
                 double distance = Math.Sqrt(Math.Pow((b._xPosition - x), 2) + Math.Pow((b._yPosition - y), 2));
                 if (distance <= (2 * b.Radius + 20))
@@ -56,7 +56,7 @@ namespace Data
 
         private void CreateThreads()
         {
-            foreach(Ball b in balls)
+            foreach(AbstractBall b in balls)
             {
                 Thread t = new Thread(() =>
                 {
@@ -68,7 +68,6 @@ namespace Data
                             lock (locked)
                             {
                                 b.Move();
-                            
                             }
                         }
                         catch (Exception e)
@@ -98,7 +97,7 @@ namespace Data
             }
         }
 
-        public List<Ball> GetBalls()
+        public List<AbstractBall> GetBalls()
         {
             return balls;
         }
