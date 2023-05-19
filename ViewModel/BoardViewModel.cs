@@ -34,7 +34,7 @@ namespace ViewModel
 
         private async void Start()
         {
-            foreach(LogicBall LogicBall in BoardModel.GetStartingBallPositions(Count))
+            foreach(AbstractLogicBall LogicBall in BoardModel.GetStartingBallPositions(Count))
             {
                 ModelBall ball = new ModelBall(LogicBall.GetX(), LogicBall.GetY(), LogicBall.GetRadius(), LogicBall.GetColor());
                 viewModelBalls.Add(ball);

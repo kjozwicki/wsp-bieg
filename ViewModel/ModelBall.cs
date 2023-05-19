@@ -22,9 +22,9 @@ namespace ViewModel
 
         public void Update(Object s, PropertyChangedEventArgs e)
         {
-            Logic.LogicBall ball = (Logic.LogicBall)s;
-            X = ball.X;
-            Y = ball.Y;
+            Logic.AbstractLogicBall ball = (Logic.AbstractLogicBall)s;
+            X = ball.GetX();
+            Y = ball.GetY();
         }
     }
 }

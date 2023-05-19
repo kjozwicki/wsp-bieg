@@ -17,7 +17,7 @@ namespace Model
             BoardAPI = boardAPI ?? BoardLogicAbstractAPI.CreateLayer();
         }
 
-        public ObservableCollection<LogicBall> GetStartingBallPositions(int ballCount)
+        public ObservableCollection<AbstractLogicBall> GetStartingBallPositions(int ballCount)
         {
             Animating = true;
             return BoardAPI.CreateBalls(_canvasWidth, _canvasHeight, ballCount); ;

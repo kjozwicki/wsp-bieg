@@ -5,9 +5,9 @@ using Data;
 
 namespace Logic
 {
-    public class LogicBall : INotifyPropertyChanged
+    internal class LogicBall : AbstractLogicBall, INotifyPropertyChanged
     {
-        public event PropertyChangedEventHandler? PropertyChanged;
+        public override event PropertyChangedEventHandler? PropertyChanged;
 
         protected void OnPropertyChanged([CallerMemberName] string propertyName = null)
         {
@@ -33,7 +33,7 @@ namespace Logic
                 OnPropertyChanged("Y");
             }
         }
-        public void Update(Object s, PropertyChangedEventArgs e)
+        public override void Update(Object s, PropertyChangedEventArgs e)
         {
             AbstractBall ball = (AbstractBall)s; 
             X = ball._xPosition;
@@ -46,28 +46,28 @@ namespace Logic
         {
             ball = b;
         }
-        public void ChangeXDirection()
+        public override void ChangeXDirection()
         {
             ball.ChangeXDirection();
         }
-        public void ChangeYDirection()
+        public override void ChangeYDirection()
         {
             ball.ChangeYDirection();
         }
-        public double GetX()
+        public override double GetX()
         {
             return X;
         }
-        public double GetY()
+        public override double GetY()
         {
             return Y;
         }
-        public double GetRadius()
+        public override double GetRadius()
         {
             return ball.Radius;
         }
 
-        public String GetColor()
+        public override String GetColor()
         {
             return ball.Color;
         }

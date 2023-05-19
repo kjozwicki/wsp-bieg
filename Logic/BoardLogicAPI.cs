@@ -12,14 +12,14 @@ namespace Logic
             return new BoardLogicAPI(data ?? DataAbstractAPI.CreateAPI());
         }
 
-        public abstract ObservableCollection<LogicBall> CreateBalls(double boardWidth, double boardHeight, int ballCount);
+        public abstract ObservableCollection<AbstractLogicBall> CreateBalls(double boardWidth, double boardHeight, int ballCount);
 
         public abstract void InterruptThreads();
         
         public abstract void StartThreads();
 
-        public abstract void CheckBoundariesCollision(LogicBall ball);
-        public abstract void CheckCollisionsWithBalls(LogicBall ball);
+        public abstract void CheckBoundariesCollision(AbstractLogicBall ball);
+        public abstract void CheckCollisionsWithBalls(AbstractLogicBall ball);
 
    
 
@@ -30,17 +30,17 @@ namespace Logic
                 DataLayer = dataLayer;
             }
 
-            public override ObservableCollection<LogicBall> CreateBalls(double boardWidth, double boardHeight, int ballCount)
+            public override ObservableCollection<AbstractLogicBall> CreateBalls(double boardWidth, double boardHeight, int ballCount)
             {
                 List<AbstractBall> balls = new();
-                ObservableCollection<LogicBall> logicBalls = new();
+                ObservableCollection<AbstractLogicBall> logicBalls = new();
                 DataLayer.CreateBoardWithBalls(ballCount, boardWidth, boardHeight);
                 height = DataLayer.GetBoardHeight();
                 width = DataLayer.GetBoardWidth();
                 balls = DataLayer.GetBalls();
                 foreach (AbstractBall b in balls)
                 {
-                    LogicBall logicBall = new LogicBall(b);
+                    AbstractLogicBall logicBall = AbstractLogicBall.CreateBall(b);
                     b.PropertyChanged += logicBall.Update!;
                     ballsCollection.Add(logicBall);
                     logicBalls.Add(logicBall);                
@@ -48,9 +48,9 @@ namespace Logic
                 return logicBalls;
             }
             
-            private static bool BallsCollission(LogicBall ball)
+            private static bool BallsCollission(AbstractLogicBall ball)
             {
-                foreach (LogicBall b in ballsCollection)
+                foreach (AbstractLogicBall b in ballsCollection)
                 {
                     double distance = Math.Ceiling(Math.Sqrt(Math.Pow((b.GetX() - ball.GetX()), 2) + Math.Pow((b.GetY() - ball.GetY()), 2)));
                     if (b != ball && distance <= (b.GetRadius() + ball.GetRadius()) && checkBallBoundary(ball))
@@ -63,7 +63,7 @@ namespace Logic
                 return false;
             }
             
-            public static void UpdateBallSpeed(LogicBall ball)
+            public static void UpdateBallSpeed(AbstractLogicBall ball)
             {
                 if (ball.GetY() - ball.GetRadius() <= 0 || ball.GetY() + ball.GetRadius() >= height)
                 {
@@ -75,17 +75,17 @@ namespace Logic
                 }
             }
 
-            private static bool checkBallBoundary(LogicBall ball)
+            private static bool checkBallBoundary(AbstractLogicBall ball)
             {
                 return ball.GetY() - ball.GetRadius() <= 0 || ball.GetX() + ball.GetRadius() >= width || ball.GetY() + ball.GetRadius() >= height || ball.GetX() - ball.GetRadius() <= 0 ? false : true;
             }
 
-            public override void CheckBoundariesCollision(LogicBall ball)
+            public override void CheckBoundariesCollision(AbstractLogicBall ball)
             {
                 UpdateBallSpeed(ball);
             }
 
-            public override void CheckCollisionsWithBalls(LogicBall ball)
+            public override void CheckCollisionsWithBalls(AbstractLogicBall ball)
             {
                 BallsCollission(ball);
             }
@@ -102,7 +102,7 @@ namespace Logic
             }
 
             private readonly DataAbstractAPI DataLayer;
-            private static Collection<LogicBall> ballsCollection = new();
+            private static Collection<AbstractLogicBall> ballsCollection = new();
             private static double height;
             private static double width;
         }
