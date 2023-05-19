@@ -1,4 +1,5 @@
-﻿using System.ComponentModel;
+﻿using System;
+using System.ComponentModel;
 using System.Diagnostics;
 
 namespace Data;
@@ -12,9 +13,10 @@ public abstract class AbstractBall
         public int _ySpeed;
         public int Radius;
         public string Color;
-        internal abstract void Move();
+        internal abstract void Move(Stopwatch timer);
         public abstract void ChangeXDirection();
         public abstract void ChangeYDirection();
+        public abstract void Update(Object o, PropertyChangedEventArgs p);
 
         public static AbstractBall CreateBall( int xP, int yP)
         {

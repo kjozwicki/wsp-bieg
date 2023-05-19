@@ -6,4 +6,8 @@
         <UseWPF>true</UseWPF>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="MSTest.TestFramework" Version="2.2.7" />
+    </ItemGroup>
+
 </Project>

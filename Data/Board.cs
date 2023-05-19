@@ -1,8 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
-using System.Linq;
-using System.Text;
+using System.Diagnostics;
 using System.Threading;
 
 namespace Data
@@ -10,8 +9,10 @@ namespace Data
     internal class Board
     {
         private readonly Object locked = new();
+        private readonly Object lockedToSave = new();
         private List<AbstractBall> balls = new();
         private Collection<Thread> threads = new();
+        private Collection<Thread> threadsToSave = new();
         private double boardHeight;
         private double boardWidth;
 
@@ -60,41 +61,61 @@ namespace Data
             {
                 Thread t = new Thread(() =>
                 {
+                    Stopwatch timer = new Stopwatch();
+                    timer.Start();
                     while (true)
                     {
                         try
                         {
-                            Thread.Sleep(15);
                             lock (locked)
                             {
-                                b.Move();
+                                b.Move(timer);
                             }
+                            Thread.Sleep(15);
+                            timer.Reset();
+                            timer.Start();
                         }
                         catch (Exception e)
                         {
                             break;
                         }
-
                     }
                 });
                 threads.Add(t);
+                Thread tToSave = new Thread(() =>
+                {
+                    lock (lockedToSave)
+                    {
+                        b.PropertyChanged += b.Update!;
+                    }
+                });
+                threadsToSave.Add(tToSave);
             }
         }
-
         public void StartThreads()
         {
             foreach(Thread t in threads)
             {
                 t.Start();
             }
+            foreach(Thread t in threadsToSave)
+            {
+                t.Start();
+            }
         }
-
         public void InterruptThreads()
         {
             foreach(Thread t in threads)
             {
                 t.Interrupt();
             }
+            foreach (Thread t in threadsToSave)
+            {
+                t.Interrupt();
+            }
+            lock(lockedToSave)
+            {
+            }  
         }
 
         public List<AbstractBall> GetBalls()

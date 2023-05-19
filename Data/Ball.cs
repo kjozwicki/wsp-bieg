@@ -1,7 +1,12 @@
 using System;
+using System.Collections.Generic;
 using System.ComponentModel;
-using System.Runtime.CompilerServices;
 using System.Diagnostics;
+using System.Linq;
+using System.Numerics;
+using System.Runtime.CompilerServices;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace Data
 {
@@ -31,8 +36,9 @@ namespace Data
                 _ySpeed = rnd.Next(-3, 4);
             }
         }
-        internal override void Move()
+        internal override void Move(Stopwatch timer)
         {
+            int mul = (int)timer.ElapsedMilliseconds / 1000;
             this._xPosition += this._xSpeed;
             this._yPosition += this._ySpeed;
             OnPropertyChanged("Move");
@@ -45,6 +51,12 @@ namespace Data
         public override void ChangeYDirection()
         {
             this._ySpeed *= -1;
+        }
+
+        public override void Update(Object o, PropertyChangedEventArgs p)
+        {
+            //Logger.GetInstance().SaveDateAsTxt(_xPosition, _yPosition, _xSpeed, _ySpeed, this.GetHashCode());
+            Logger.GetInstance().SaveDateAsYaml(_xPosition, _yPosition, _xSpeed, _ySpeed, this.GetHashCode());
         }
     }
 }
