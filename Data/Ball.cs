@@ -39,8 +39,8 @@ namespace Data
         internal override void Move(Stopwatch timer)
         {
             int mul = (int)timer.ElapsedMilliseconds / 1000;
-            this._xPosition += this._xSpeed;
-            this._yPosition += this._ySpeed;
+            this._xPosition += this._xSpeed + mul;
+            this._yPosition += this._ySpeed + mul;
             OnPropertyChanged("Move");
         }
         public override void ChangeXDirection()
