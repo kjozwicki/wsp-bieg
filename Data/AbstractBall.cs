@@ -13,9 +13,11 @@ public abstract class AbstractBall
         public int _ySpeed;
         public int Radius;
         public string Color;
+        public bool TxtYaml;
         internal abstract void Move(Stopwatch timer);
         public abstract void ChangeXDirection();
         public abstract void ChangeYDirection();
+        public abstract void ChangeTxtYaml();
         public abstract void Update(Object o, PropertyChangedEventArgs p);
 
         public static AbstractBall CreateBall( int xP, int yP)

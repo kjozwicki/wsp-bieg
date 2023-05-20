@@ -1,168 +1,2527 @@
 ball:
-  - Hash: 20974680
-  - XPos: 523
-  - Ypos: 483
-  - XSpeed: -3
+  - Hash: 34717384
+  - XPos: 602
+  - Ypos: 377
+  - XSpeed: -2
   - YSpeed: 1
-  - Date: piątek, 19 maja 2023 20:44:24,120
+  - Date: sobota, 20 maja 2023 11:25:33,589
 ball:
-  - Hash: 20974680
-  - XPos: 520
-  - Ypos: 484
-  - XSpeed: -3
-  - YSpeed: 1
-  - Date: piątek, 19 maja 2023 20:44:24,148
+  - Hash: 39086322
+  - XPos: 328
+  - Ypos: 87
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:33,589
 ball:
-  - Hash: 20974680
-  - XPos: 517
-  - Ypos: 485
-  - XSpeed: -3
-  - YSpeed: 1
-  - Date: piątek, 19 maja 2023 20:44:24,179
+  - Hash: 21647132
+  - XPos: 148
+  - Ypos: 109
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:33,589
 ball:
-  - Hash: 20974680
-  - XPos: 514
-  - Ypos: 486
-  - XSpeed: -3
-  - YSpeed: 1
-  - Date: piątek, 19 maja 2023 20:44:24,209
-ball:
-  - Hash: 20974680
-  - XPos: 511
-  - Ypos: 487
-  - XSpeed: -3
-  - YSpeed: 1
-  - Date: piątek, 19 maja 2023 20:44:24,225
-ball:
-  - Hash: 20974680
-  - XPos: 508
-  - Ypos: 488
-  - XSpeed: -3
-  - YSpeed: 1
-  - Date: piątek, 19 maja 2023 20:44:24,255
-ball:
-  - Hash: 20974680
-  - XPos: 505
-  - Ypos: 489
-  - XSpeed: -3
-  - YSpeed: 1
-  - Date: piątek, 19 maja 2023 20:44:24,271
-ball:
-  - Hash: 20974680
-  - XPos: 502
-  - Ypos: 490
-  - XSpeed: -3
-  - YSpeed: 1
-  - Date: piątek, 19 maja 2023 20:44:24,287
-ball:
-  - Hash: 20974680
-  - XPos: 499
-  - Ypos: 491
-  - XSpeed: -3
-  - YSpeed: 1
-  - Date: piątek, 19 maja 2023 20:44:24,303
-ball:
-  - Hash: 20974680
-  - XPos: 496
-  - Ypos: 492
-  - XSpeed: -3
-  - YSpeed: 1
-  - Date: piątek, 19 maja 2023 20:44:24,334
-ball:
-  - Hash: 20974680
-  - XPos: 493
-  - Ypos: 493
-  - XSpeed: -3
-  - YSpeed: 1
-  - Date: piątek, 19 maja 2023 20:44:24,350
-ball:
-  - Hash: 20974680
-  - XPos: 490
-  - Ypos: 494
-  - XSpeed: -3
-  - YSpeed: 1
-  - Date: piątek, 19 maja 2023 20:44:24,366
-ball:
-  - Hash: 20974680
-  - XPos: 487
-  - Ypos: 495
-  - XSpeed: -3
-  - YSpeed: 1
-  - Date: piątek, 19 maja 2023 20:44:24,382
-ball:
-  - Hash: 20974680
-  - XPos: 484
-  - Ypos: 496
-  - XSpeed: -3
-  - YSpeed: 1
-  - Date: piątek, 19 maja 2023 20:44:24,398
-ball:
-  - Hash: 20974680
-  - XPos: 481
-  - Ypos: 497
-  - XSpeed: -3
-  - YSpeed: 1
-  - Date: piątek, 19 maja 2023 20:44:24,414
-ball:
-  - Hash: 20974680
-  - XPos: 478
-  - Ypos: 498
-  - XSpeed: -3
-  - YSpeed: 1
-  - Date: piątek, 19 maja 2023 20:44:24,445
-ball:
-  - Hash: 20974680
-  - XPos: 475
-  - Ypos: 499
-  - XSpeed: -3
-  - YSpeed: 1
-  - Date: piątek, 19 maja 2023 20:44:24,460
-ball:
-  - Hash: 20974680
-  - XPos: 472
-  - Ypos: 500
-  - XSpeed: -3
-  - YSpeed: 1
-  - Date: piątek, 19 maja 2023 20:44:24,491
-ball:
-  - Hash: 20974680
-  - XPos: 469
-  - Ypos: 501
-  - XSpeed: -3
-  - YSpeed: 1
-  - Date: piątek, 19 maja 2023 20:44:24,507
-ball:
-  - Hash: 20974680
-  - XPos: 466
-  - Ypos: 502
-  - XSpeed: -3
-  - YSpeed: 1
-  - Date: piątek, 19 maja 2023 20:44:24,523
-ball:
-  - Hash: 20974680
-  - XPos: 463
-  - Ypos: 503
-  - XSpeed: -3
-  - YSpeed: 1
-  - Date: piątek, 19 maja 2023 20:44:24,539
-ball:
-  - Hash: 20974680
-  - XPos: 460
+  - Hash: 42931033
+  - XPos: 341
   - Ypos: 504
-  - XSpeed: -3
+  - XSpeed: 2
   - YSpeed: 1
-  - Date: piątek, 19 maja 2023 20:44:24,555
+  - Date: sobota, 20 maja 2023 11:25:33,590
 ball:
-  - Hash: 20974680
-  - XPos: 457
+  - Hash: 58366981
+  - XPos: 894
+  - Ypos: 339
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:33,590
+ball:
+  - Hash: 42931033
+  - XPos: 343
   - Ypos: 505
-  - XSpeed: -3
+  - XSpeed: 2
   - YSpeed: 1
-  - Date: piątek, 19 maja 2023 20:44:24,585
+  - Date: sobota, 20 maja 2023 11:25:33,619
 ball:
-  - Hash: 20974680
-  - XPos: 454
-  - Ypos: 506
-  - XSpeed: -3
+  - Hash: 34717384
+  - XPos: 600
+  - Ypos: 378
+  - XSpeed: -2
   - YSpeed: 1
-  - Date: piątek, 19 maja 2023 20:44:24,615
+  - Date: sobota, 20 maja 2023 11:25:33,620
+ball:
+  - Hash: 58366981
+  - XPos: 892
+  - Ypos: 341
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:33,620
+ball:
+  - Hash: 21647132
+  - XPos: 149
+  - Ypos: 108
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:33,620
+ball:
+  - Hash: 39086322
+  - XPos: 330
+  - Ypos: 90
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:33,621
+ball:
+  - Hash: 42931033
+  - XPos: 345
+  - Ypos: 506
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:33,635
+ball:
+  - Hash: 34717384
+  - XPos: 598
+  - Ypos: 379
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:33,651
+ball:
+  - Hash: 58366981
+  - XPos: 890
+  - Ypos: 343
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:33,651
+ball:
+  - Hash: 21647132
+  - XPos: 150
+  - Ypos: 107
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:33,651
+ball:
+  - Hash: 39086322
+  - XPos: 332
+  - Ypos: 93
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:33,651
+ball:
+  - Hash: 42931033
+  - XPos: 347
+  - Ypos: 507
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:33,652
+ball:
+  - Hash: 34717384
+  - XPos: 596
+  - Ypos: 380
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:33,666
+ball:
+  - Hash: 42931033
+  - XPos: 349
+  - Ypos: 508
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:33,682
+ball:
+  - Hash: 34717384
+  - XPos: 594
+  - Ypos: 381
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:33,682
+ball:
+  - Hash: 58366981
+  - XPos: 888
+  - Ypos: 345
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:33,682
+ball:
+  - Hash: 39086322
+  - XPos: 334
+  - Ypos: 96
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:33,683
+ball:
+  - Hash: 21647132
+  - XPos: 151
+  - Ypos: 106
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:33,683
+ball:
+  - Hash: 42931033
+  - XPos: 351
+  - Ypos: 509
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:33,697
+ball:
+  - Hash: 34717384
+  - XPos: 592
+  - Ypos: 382
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:33,713
+ball:
+  - Hash: 39086322
+  - XPos: 336
+  - Ypos: 99
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:33,713
+ball:
+  - Hash: 21647132
+  - XPos: 152
+  - Ypos: 105
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:33,714
+ball:
+  - Hash: 58366981
+  - XPos: 886
+  - Ypos: 347
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:33,714
+ball:
+  - Hash: 42931033
+  - XPos: 353
+  - Ypos: 510
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:33,714
+ball:
+  - Hash: 34717384
+  - XPos: 590
+  - Ypos: 383
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:33,729
+ball:
+  - Hash: 34717384
+  - XPos: 588
+  - Ypos: 384
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:33,744
+ball:
+  - Hash: 42931033
+  - XPos: 355
+  - Ypos: 511
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:33,744
+ball:
+  - Hash: 58366981
+  - XPos: 884
+  - Ypos: 349
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:33,750
+ball:
+  - Hash: 39086322
+  - XPos: 338
+  - Ypos: 102
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:33,750
+ball:
+  - Hash: 21647132
+  - XPos: 153
+  - Ypos: 104
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:33,750
+ball:
+  - Hash: 34717384
+  - XPos: 586
+  - Ypos: 385
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:33,760
+ball:
+  - Hash: 58366981
+  - XPos: 882
+  - Ypos: 351
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:33,775
+ball:
+  - Hash: 39086322
+  - XPos: 340
+  - Ypos: 105
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:33,775
+ball:
+  - Hash: 21647132
+  - XPos: 154
+  - Ypos: 103
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:33,776
+ball:
+  - Hash: 42931033
+  - XPos: 357
+  - Ypos: 512
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:33,776
+ball:
+  - Hash: 34717384
+  - XPos: 584
+  - Ypos: 386
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:33,805
+ball:
+  - Hash: 21647132
+  - XPos: 155
+  - Ypos: 102
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:33,805
+ball:
+  - Hash: 42931033
+  - XPos: 359
+  - Ypos: 513
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:33,807
+ball:
+  - Hash: 39086322
+  - XPos: 342
+  - Ypos: 108
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:33,807
+ball:
+  - Hash: 58366981
+  - XPos: 880
+  - Ypos: 353
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:33,808
+ball:
+  - Hash: 34717384
+  - XPos: 582
+  - Ypos: 387
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:33,820
+ball:
+  - Hash: 34717384
+  - XPos: 580
+  - Ypos: 388
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:33,836
+ball:
+  - Hash: 21647132
+  - XPos: 156
+  - Ypos: 101
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:33,836
+ball:
+  - Hash: 58366981
+  - XPos: 878
+  - Ypos: 355
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:33,837
+ball:
+  - Hash: 39086322
+  - XPos: 344
+  - Ypos: 111
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:33,837
+ball:
+  - Hash: 42931033
+  - XPos: 361
+  - Ypos: 514
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:33,837
+ball:
+  - Hash: 34717384
+  - XPos: 578
+  - Ypos: 389
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:33,852
+ball:
+  - Hash: 42931033
+  - XPos: 363
+  - Ypos: 515
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:33,867
+ball:
+  - Hash: 34717384
+  - XPos: 576
+  - Ypos: 390
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:33,868
+ball:
+  - Hash: 58366981
+  - XPos: 876
+  - Ypos: 357
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:33,868
+ball:
+  - Hash: 39086322
+  - XPos: 346
+  - Ypos: 114
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:33,868
+ball:
+  - Hash: 21647132
+  - XPos: 157
+  - Ypos: 100
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:33,868
+ball:
+  - Hash: 42931033
+  - XPos: 365
+  - Ypos: 516
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:33,883
+ball:
+  - Hash: 58366981
+  - XPos: 874
+  - Ypos: 359
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:33,898
+ball:
+  - Hash: 39086322
+  - XPos: 348
+  - Ypos: 117
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:33,899
+ball:
+  - Hash: 34717384
+  - XPos: 574
+  - Ypos: 391
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:33,899
+ball:
+  - Hash: 21647132
+  - XPos: 158
+  - Ypos: 99
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:33,899
+ball:
+  - Hash: 42931033
+  - XPos: 367
+  - Ypos: 517
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:33,900
+ball:
+  - Hash: 58366981
+  - XPos: 872
+  - Ypos: 361
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:33,914
+ball:
+  - Hash: 39086322
+  - XPos: 350
+  - Ypos: 120
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:33,930
+ball:
+  - Hash: 34717384
+  - XPos: 572
+  - Ypos: 392
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:33,930
+ball:
+  - Hash: 42931033
+  - XPos: 369
+  - Ypos: 518
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:33,930
+ball:
+  - Hash: 21647132
+  - XPos: 159
+  - Ypos: 98
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:33,931
+ball:
+  - Hash: 58366981
+  - XPos: 870
+  - Ypos: 363
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:33,931
+ball:
+  - Hash: 39086322
+  - XPos: 352
+  - Ypos: 123
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:33,946
+ball:
+  - Hash: 42931033
+  - XPos: 371
+  - Ypos: 519
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:33,946
+ball:
+  - Hash: 34717384
+  - XPos: 570
+  - Ypos: 393
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:33,947
+ball:
+  - Hash: 21647132
+  - XPos: 160
+  - Ypos: 97
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:33,947
+ball:
+  - Hash: 58366981
+  - XPos: 868
+  - Ypos: 365
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:33,962
+ball:
+  - Hash: 39086322
+  - XPos: 354
+  - Ypos: 126
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:33,962
+ball:
+  - Hash: 34717384
+  - XPos: 568
+  - Ypos: 394
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:33,977
+ball:
+  - Hash: 21647132
+  - XPos: 161
+  - Ypos: 96
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:33,978
+ball:
+  - Hash: 42931033
+  - XPos: 373
+  - Ypos: 520
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:33,978
+ball:
+  - Hash: 58366981
+  - XPos: 866
+  - Ypos: 367
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:33,978
+ball:
+  - Hash: 34717384
+  - XPos: 566
+  - Ypos: 395
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:33,993
+ball:
+  - Hash: 39086322
+  - XPos: 356
+  - Ypos: 129
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:33,998
+ball:
+  - Hash: 21647132
+  - XPos: 162
+  - Ypos: 95
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,009
+ball:
+  - Hash: 42931033
+  - XPos: 375
+  - Ypos: 521
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,009
+ball:
+  - Hash: 58366981
+  - XPos: 864
+  - Ypos: 369
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:34,010
+ball:
+  - Hash: 34717384
+  - XPos: 564
+  - Ypos: 396
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,028
+ball:
+  - Hash: 42931033
+  - XPos: 377
+  - Ypos: 522
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,029
+ball:
+  - Hash: 39086322
+  - XPos: 358
+  - Ypos: 132
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:34,029
+ball:
+  - Hash: 58366981
+  - XPos: 862
+  - Ypos: 371
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:34,029
+ball:
+  - Hash: 21647132
+  - XPos: 163
+  - Ypos: 94
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,029
+ball:
+  - Hash: 34717384
+  - XPos: 562
+  - Ypos: 397
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,044
+ball:
+  - Hash: 42931033
+  - XPos: 379
+  - Ypos: 523
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,060
+ball:
+  - Hash: 34717384
+  - XPos: 560
+  - Ypos: 398
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,060
+ball:
+  - Hash: 39086322
+  - XPos: 360
+  - Ypos: 135
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:34,060
+ball:
+  - Hash: 58366981
+  - XPos: 860
+  - Ypos: 373
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:34,060
+ball:
+  - Hash: 21647132
+  - XPos: 164
+  - Ypos: 93
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,061
+ball:
+  - Hash: 42931033
+  - XPos: 381
+  - Ypos: 524
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,075
+ball:
+  - Hash: 34717384
+  - XPos: 558
+  - Ypos: 399
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,091
+ball:
+  - Hash: 39086322
+  - XPos: 362
+  - Ypos: 138
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:34,091
+ball:
+  - Hash: 58366981
+  - XPos: 858
+  - Ypos: 375
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:34,091
+ball:
+  - Hash: 21647132
+  - XPos: 165
+  - Ypos: 92
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,092
+ball:
+  - Hash: 42931033
+  - XPos: 383
+  - Ypos: 525
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,092
+ball:
+  - Hash: 34717384
+  - XPos: 556
+  - Ypos: 400
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,106
+ball:
+  - Hash: 39086322
+  - XPos: 364
+  - Ypos: 141
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:34,122
+ball:
+  - Hash: 58366981
+  - XPos: 856
+  - Ypos: 377
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:34,122
+ball:
+  - Hash: 21647132
+  - XPos: 166
+  - Ypos: 91
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,123
+ball:
+  - Hash: 34717384
+  - XPos: 554
+  - Ypos: 401
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,123
+ball:
+  - Hash: 42931033
+  - XPos: 385
+  - Ypos: 526
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,123
+ball:
+  - Hash: 39086322
+  - XPos: 366
+  - Ypos: 144
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:34,138
+ball:
+  - Hash: 21647132
+  - XPos: 167
+  - Ypos: 90
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,153
+ball:
+  - Hash: 58366981
+  - XPos: 854
+  - Ypos: 379
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:34,154
+ball:
+  - Hash: 34717384
+  - XPos: 552
+  - Ypos: 402
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,154
+ball:
+  - Hash: 42931033
+  - XPos: 387
+  - Ypos: 527
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,154
+ball:
+  - Hash: 39086322
+  - XPos: 368
+  - Ypos: 147
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:34,154
+ball:
+  - Hash: 21647132
+  - XPos: 168
+  - Ypos: 89
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,169
+ball:
+  - Hash: 34717384
+  - XPos: 550
+  - Ypos: 403
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,184
+ball:
+  - Hash: 58366981
+  - XPos: 852
+  - Ypos: 381
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:34,185
+ball:
+  - Hash: 42931033
+  - XPos: 389
+  - Ypos: 528
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,185
+ball:
+  - Hash: 39086322
+  - XPos: 370
+  - Ypos: 150
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:34,185
+ball:
+  - Hash: 21647132
+  - XPos: 169
+  - Ypos: 88
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,186
+ball:
+  - Hash: 34717384
+  - XPos: 548
+  - Ypos: 404
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,200
+ball:
+  - Hash: 34717384
+  - XPos: 546
+  - Ypos: 405
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,216
+ball:
+  - Hash: 58366981
+  - XPos: 850
+  - Ypos: 383
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:34,216
+ball:
+  - Hash: 42931033
+  - XPos: 391
+  - Ypos: 529
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,216
+ball:
+  - Hash: 39086322
+  - XPos: 372
+  - Ypos: 153
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:34,217
+ball:
+  - Hash: 21647132
+  - XPos: 170
+  - Ypos: 87
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,217
+ball:
+  - Hash: 34717384
+  - XPos: 544
+  - Ypos: 406
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,231
+ball:
+  - Hash: 34717384
+  - XPos: 542
+  - Ypos: 407
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,247
+ball:
+  - Hash: 58366981
+  - XPos: 848
+  - Ypos: 385
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:34,247
+ball:
+  - Hash: 42931033
+  - XPos: 393
+  - Ypos: 530
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,248
+ball:
+  - Hash: 39086322
+  - XPos: 374
+  - Ypos: 156
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:34,248
+ball:
+  - Hash: 21647132
+  - XPos: 171
+  - Ypos: 86
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,248
+ball:
+  - Hash: 34717384
+  - XPos: 540
+  - Ypos: 408
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,263
+ball:
+  - Hash: 58366981
+  - XPos: 846
+  - Ypos: 387
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:34,279
+ball:
+  - Hash: 34717384
+  - XPos: 538
+  - Ypos: 409
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,279
+ball:
+  - Hash: 42931033
+  - XPos: 395
+  - Ypos: 531
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,279
+ball:
+  - Hash: 21647132
+  - XPos: 172
+  - Ypos: 85
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,280
+ball:
+  - Hash: 39086322
+  - XPos: 376
+  - Ypos: 159
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:34,280
+ball:
+  - Hash: 58366981
+  - XPos: 844
+  - Ypos: 389
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:34,294
+ball:
+  - Hash: 34717384
+  - XPos: 536
+  - Ypos: 410
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,310
+ball:
+  - Hash: 42931033
+  - XPos: 397
+  - Ypos: 532
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,310
+ball:
+  - Hash: 21647132
+  - XPos: 173
+  - Ypos: 84
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,311
+ball:
+  - Hash: 39086322
+  - XPos: 378
+  - Ypos: 162
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:34,311
+ball:
+  - Hash: 58366981
+  - XPos: 842
+  - Ypos: 391
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:34,311
+ball:
+  - Hash: 34717384
+  - XPos: 534
+  - Ypos: 411
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,326
+ball:
+  - Hash: 39086322
+  - XPos: 380
+  - Ypos: 165
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:34,341
+ball:
+  - Hash: 42931033
+  - XPos: 399
+  - Ypos: 533
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,342
+ball:
+  - Hash: 34717384
+  - XPos: 532
+  - Ypos: 412
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,342
+ball:
+  - Hash: 21647132
+  - XPos: 174
+  - Ypos: 83
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,342
+ball:
+  - Hash: 58366981
+  - XPos: 840
+  - Ypos: 393
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:34,342
+ball:
+  - Hash: 39086322
+  - XPos: 382
+  - Ypos: 168
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:34,357
+ball:
+  - Hash: 42931033
+  - XPos: 401
+  - Ypos: 534
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,373
+ball:
+  - Hash: 34717384
+  - XPos: 530
+  - Ypos: 413
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,373
+ball:
+  - Hash: 21647132
+  - XPos: 175
+  - Ypos: 82
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,373
+ball:
+  - Hash: 58366981
+  - XPos: 838
+  - Ypos: 395
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:34,373
+ball:
+  - Hash: 39086322
+  - XPos: 384
+  - Ypos: 171
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:34,374
+ball:
+  - Hash: 42931033
+  - XPos: 403
+  - Ypos: 535
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,388
+ball:
+  - Hash: 34717384
+  - XPos: 528
+  - Ypos: 414
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,404
+ball:
+  - Hash: 58366981
+  - XPos: 836
+  - Ypos: 397
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:34,404
+ball:
+  - Hash: 21647132
+  - XPos: 176
+  - Ypos: 81
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,404
+ball:
+  - Hash: 39086322
+  - XPos: 386
+  - Ypos: 174
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:34,405
+ball:
+  - Hash: 42931033
+  - XPos: 405
+  - Ypos: 536
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,405
+ball:
+  - Hash: 34717384
+  - XPos: 526
+  - Ypos: 415
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,419
+ball:
+  - Hash: 34717384
+  - XPos: 524
+  - Ypos: 416
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,435
+ball:
+  - Hash: 21647132
+  - XPos: 177
+  - Ypos: 80
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,435
+ball:
+  - Hash: 39086322
+  - XPos: 388
+  - Ypos: 177
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:34,436
+ball:
+  - Hash: 58366981
+  - XPos: 834
+  - Ypos: 399
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:34,436
+ball:
+  - Hash: 42931033
+  - XPos: 407
+  - Ypos: 537
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,436
+ball:
+  - Hash: 34717384
+  - XPos: 522
+  - Ypos: 417
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,451
+ball:
+  - Hash: 21647132
+  - XPos: 178
+  - Ypos: 79
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,466
+ball:
+  - Hash: 34717384
+  - XPos: 520
+  - Ypos: 418
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,466
+ball:
+  - Hash: 39086322
+  - XPos: 390
+  - Ypos: 180
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:34,467
+ball:
+  - Hash: 58366981
+  - XPos: 832
+  - Ypos: 401
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:34,467
+ball:
+  - Hash: 42931033
+  - XPos: 409
+  - Ypos: 538
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,467
+ball:
+  - Hash: 21647132
+  - XPos: 179
+  - Ypos: 78
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,482
+ball:
+  - Hash: 34717384
+  - XPos: 518
+  - Ypos: 419
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,497
+ball:
+  - Hash: 58366981
+  - XPos: 830
+  - Ypos: 403
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:34,498
+ball:
+  - Hash: 39086322
+  - XPos: 392
+  - Ypos: 183
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:34,498
+ball:
+  - Hash: 42931033
+  - XPos: 411
+  - Ypos: 539
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,498
+ball:
+  - Hash: 21647132
+  - XPos: 180
+  - Ypos: 77
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,498
+ball:
+  - Hash: 34717384
+  - XPos: 516
+  - Ypos: 420
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,513
+ball:
+  - Hash: 58366981
+  - XPos: 828
+  - Ypos: 405
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:34,529
+ball:
+  - Hash: 39086322
+  - XPos: 394
+  - Ypos: 186
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:34,529
+ball:
+  - Hash: 34717384
+  - XPos: 514
+  - Ypos: 421
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,530
+ball:
+  - Hash: 42931033
+  - XPos: 413
+  - Ypos: 540
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,530
+ball:
+  - Hash: 21647132
+  - XPos: 181
+  - Ypos: 76
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,531
+ball:
+  - Hash: 34717384
+  - XPos: 512
+  - Ypos: 422
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,560
+ball:
+  - Hash: 42931033
+  - XPos: 415
+  - Ypos: 541
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,561
+ball:
+  - Hash: 58366981
+  - XPos: 826
+  - Ypos: 407
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:34,561
+ball:
+  - Hash: 39086322
+  - XPos: 396
+  - Ypos: 189
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:34,562
+ball:
+  - Hash: 21647132
+  - XPos: 182
+  - Ypos: 75
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,562
+ball:
+  - Hash: 58366981
+  - XPos: 824
+  - Ypos: 409
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:34,591
+ball:
+  - Hash: 34717384
+  - XPos: 510
+  - Ypos: 423
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,592
+ball:
+  - Hash: 39086322
+  - XPos: 398
+  - Ypos: 192
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:34,592
+ball:
+  - Hash: 21647132
+  - XPos: 183
+  - Ypos: 74
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,593
+ball:
+  - Hash: 42931033
+  - XPos: 417
+  - Ypos: 542
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,593
+ball:
+  - Hash: 58366981
+  - XPos: 822
+  - Ypos: 411
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:34,608
+ball:
+  - Hash: 34717384
+  - XPos: 508
+  - Ypos: 424
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,608
+ball:
+  - Hash: 42931033
+  - XPos: 419
+  - Ypos: 543
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,623
+ball:
+  - Hash: 39086322
+  - XPos: 400
+  - Ypos: 195
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:34,624
+ball:
+  - Hash: 21647132
+  - XPos: 184
+  - Ypos: 73
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,625
+ball:
+  - Hash: 58366981
+  - XPos: 820
+  - Ypos: 413
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:34,639
+ball:
+  - Hash: 34717384
+  - XPos: 506
+  - Ypos: 425
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,640
+ball:
+  - Hash: 39086322
+  - XPos: 402
+  - Ypos: 198
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:34,655
+ball:
+  - Hash: 42931033
+  - XPos: 421
+  - Ypos: 544
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,655
+ball:
+  - Hash: 21647132
+  - XPos: 185
+  - Ypos: 72
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,656
+ball:
+  - Hash: 58366981
+  - XPos: 818
+  - Ypos: 415
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:34,670
+ball:
+  - Hash: 34717384
+  - XPos: 504
+  - Ypos: 426
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,671
+ball:
+  - Hash: 39086322
+  - XPos: 404
+  - Ypos: 201
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:34,693
+ball:
+  - Hash: 42931033
+  - XPos: 423
+  - Ypos: 545
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,694
+ball:
+  - Hash: 21647132
+  - XPos: 186
+  - Ypos: 71
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,694
+ball:
+  - Hash: 34717384
+  - XPos: 502
+  - Ypos: 427
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,702
+ball:
+  - Hash: 58366981
+  - XPos: 816
+  - Ypos: 417
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:34,702
+ball:
+  - Hash: 42931033
+  - XPos: 425
+  - Ypos: 546
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,717
+ball:
+  - Hash: 39086322
+  - XPos: 406
+  - Ypos: 204
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:34,718
+ball:
+  - Hash: 21647132
+  - XPos: 187
+  - Ypos: 70
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,718
+ball:
+  - Hash: 34717384
+  - XPos: 500
+  - Ypos: 428
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,733
+ball:
+  - Hash: 58366981
+  - XPos: 814
+  - Ypos: 419
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:34,733
+ball:
+  - Hash: 42931033
+  - XPos: 427
+  - Ypos: 547
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,748
+ball:
+  - Hash: 39086322
+  - XPos: 408
+  - Ypos: 207
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:34,749
+ball:
+  - Hash: 21647132
+  - XPos: 188
+  - Ypos: 69
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,750
+ball:
+  - Hash: 58366981
+  - XPos: 812
+  - Ypos: 421
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:34,764
+ball:
+  - Hash: 34717384
+  - XPos: 498
+  - Ypos: 429
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,765
+ball:
+  - Hash: 21647132
+  - XPos: 189
+  - Ypos: 68
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,780
+ball:
+  - Hash: 42931033
+  - XPos: 429
+  - Ypos: 548
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,780
+ball:
+  - Hash: 39086322
+  - XPos: 410
+  - Ypos: 210
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:34,780
+ball:
+  - Hash: 21647132
+  - XPos: 190
+  - Ypos: 67
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,795
+ball:
+  - Hash: 34717384
+  - XPos: 496
+  - Ypos: 430
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,796
+ball:
+  - Hash: 58366981
+  - XPos: 810
+  - Ypos: 423
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:34,796
+ball:
+  - Hash: 34717384
+  - XPos: 494
+  - Ypos: 431
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,811
+ball:
+  - Hash: 39086322
+  - XPos: 412
+  - Ypos: 213
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:34,812
+ball:
+  - Hash: 42931033
+  - XPos: 431
+  - Ypos: 549
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,812
+ball:
+  - Hash: 21647132
+  - XPos: 191
+  - Ypos: 66
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,812
+ball:
+  - Hash: 58366981
+  - XPos: 808
+  - Ypos: 425
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:34,812
+ball:
+  - Hash: 34717384
+  - XPos: 492
+  - Ypos: 432
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,827
+ball:
+  - Hash: 34717384
+  - XPos: 490
+  - Ypos: 433
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,843
+ball:
+  - Hash: 39086322
+  - XPos: 414
+  - Ypos: 216
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:34,843
+ball:
+  - Hash: 42931033
+  - XPos: 433
+  - Ypos: 550
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,843
+ball:
+  - Hash: 21647132
+  - XPos: 192
+  - Ypos: 65
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,843
+ball:
+  - Hash: 58366981
+  - XPos: 806
+  - Ypos: 427
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:34,844
+ball:
+  - Hash: 34717384
+  - XPos: 488
+  - Ypos: 434
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,858
+ball:
+  - Hash: 39086322
+  - XPos: 416
+  - Ypos: 219
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:34,874
+ball:
+  - Hash: 42931033
+  - XPos: 435
+  - Ypos: 551
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,874
+ball:
+  - Hash: 34717384
+  - XPos: 486
+  - Ypos: 435
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,874
+ball:
+  - Hash: 21647132
+  - XPos: 193
+  - Ypos: 64
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,875
+ball:
+  - Hash: 58366981
+  - XPos: 804
+  - Ypos: 429
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:34,875
+ball:
+  - Hash: 39086322
+  - XPos: 418
+  - Ypos: 222
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:34,889
+ball:
+  - Hash: 42931033
+  - XPos: 437
+  - Ypos: 552
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,890
+ball:
+  - Hash: 34717384
+  - XPos: 484
+  - Ypos: 436
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,905
+ball:
+  - Hash: 39086322
+  - XPos: 420
+  - Ypos: 225
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:34,905
+ball:
+  - Hash: 21647132
+  - XPos: 194
+  - Ypos: 63
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,906
+ball:
+  - Hash: 58366981
+  - XPos: 802
+  - Ypos: 431
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:34,910
+ball:
+  - Hash: 34717384
+  - XPos: 482
+  - Ypos: 437
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,921
+ball:
+  - Hash: 42931033
+  - XPos: 439
+  - Ypos: 553
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,921
+ball:
+  - Hash: 39086322
+  - XPos: 422
+  - Ypos: 228
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:34,936
+ball:
+  - Hash: 34717384
+  - XPos: 480
+  - Ypos: 438
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,936
+ball:
+  - Hash: 58366981
+  - XPos: 800
+  - Ypos: 433
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:34,937
+ball:
+  - Hash: 21647132
+  - XPos: 195
+  - Ypos: 62
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,937
+ball:
+  - Hash: 42931033
+  - XPos: 441
+  - Ypos: 554
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,952
+ball:
+  - Hash: 39086322
+  - XPos: 424
+  - Ypos: 231
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:34,952
+ball:
+  - Hash: 42931033
+  - XPos: 443
+  - Ypos: 555
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,967
+ball:
+  - Hash: 58366981
+  - XPos: 798
+  - Ypos: 435
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:34,968
+ball:
+  - Hash: 21647132
+  - XPos: 196
+  - Ypos: 61
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,968
+ball:
+  - Hash: 34717384
+  - XPos: 478
+  - Ypos: 439
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,968
+ball:
+  - Hash: 39086322
+  - XPos: 426
+  - Ypos: 234
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:34,983
+ball:
+  - Hash: 42931033
+  - XPos: 445
+  - Ypos: 556
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,983
+ball:
+  - Hash: 34717384
+  - XPos: 476
+  - Ypos: 440
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:34,998
+ball:
+  - Hash: 21647132
+  - XPos: 197
+  - Ypos: 60
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:34,998
+ball:
+  - Hash: 58366981
+  - XPos: 796
+  - Ypos: 437
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:34,999
+ball:
+  - Hash: 34717384
+  - XPos: 474
+  - Ypos: 441
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,021
+ball:
+  - Hash: 58366981
+  - XPos: 794
+  - Ypos: 439
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:35,021
+ball:
+  - Hash: 21647132
+  - XPos: 198
+  - Ypos: 59
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:35,022
+ball:
+  - Hash: 42931033
+  - XPos: 447
+  - Ypos: 557
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,022
+ball:
+  - Hash: 39086322
+  - XPos: 428
+  - Ypos: 237
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:35,022
+ball:
+  - Hash: 34717384
+  - XPos: 472
+  - Ypos: 442
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,037
+ball:
+  - Hash: 42931033
+  - XPos: 449
+  - Ypos: 558
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,052
+ball:
+  - Hash: 58366981
+  - XPos: 792
+  - Ypos: 441
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:35,053
+ball:
+  - Hash: 39086322
+  - XPos: 430
+  - Ypos: 240
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:35,053
+ball:
+  - Hash: 21647132
+  - XPos: 199
+  - Ypos: 58
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:35,053
+ball:
+  - Hash: 34717384
+  - XPos: 470
+  - Ypos: 443
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,053
+ball:
+  - Hash: 42931033
+  - XPos: 451
+  - Ypos: 559
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,068
+ball:
+  - Hash: 39086322
+  - XPos: 432
+  - Ypos: 243
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:35,083
+ball:
+  - Hash: 58366981
+  - XPos: 790
+  - Ypos: 443
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:35,084
+ball:
+  - Hash: 34717384
+  - XPos: 468
+  - Ypos: 444
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,084
+ball:
+  - Hash: 21647132
+  - XPos: 200
+  - Ypos: 57
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:35,084
+ball:
+  - Hash: 42931033
+  - XPos: 453
+  - Ypos: 560
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,085
+ball:
+  - Hash: 39086322
+  - XPos: 434
+  - Ypos: 246
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:35,099
+ball:
+  - Hash: 42931033
+  - XPos: 455
+  - Ypos: 561
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,115
+ball:
+  - Hash: 21647132
+  - XPos: 201
+  - Ypos: 56
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:35,115
+ball:
+  - Hash: 34717384
+  - XPos: 466
+  - Ypos: 445
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,115
+ball:
+  - Hash: 58366981
+  - XPos: 788
+  - Ypos: 445
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:35,115
+ball:
+  - Hash: 39086322
+  - XPos: 436
+  - Ypos: 249
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:35,116
+ball:
+  - Hash: 42931033
+  - XPos: 457
+  - Ypos: 562
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,130
+ball:
+  - Hash: 21647132
+  - XPos: 202
+  - Ypos: 55
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:35,146
+ball:
+  - Hash: 58366981
+  - XPos: 786
+  - Ypos: 447
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:35,147
+ball:
+  - Hash: 34717384
+  - XPos: 464
+  - Ypos: 446
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,147
+ball:
+  - Hash: 39086322
+  - XPos: 438
+  - Ypos: 252
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:35,148
+ball:
+  - Hash: 42931033
+  - XPos: 459
+  - Ypos: 563
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,162
+ball:
+  - Hash: 34717384
+  - XPos: 462
+  - Ypos: 447
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,177
+ball:
+  - Hash: 58366981
+  - XPos: 784
+  - Ypos: 449
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:35,178
+ball:
+  - Hash: 39086322
+  - XPos: 440
+  - Ypos: 255
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:35,178
+ball:
+  - Hash: 21647132
+  - XPos: 203
+  - Ypos: 54
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:35,178
+ball:
+  - Hash: 42931033
+  - XPos: 461
+  - Ypos: 564
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,179
+ball:
+  - Hash: 34717384
+  - XPos: 460
+  - Ypos: 448
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,193
+ball:
+  - Hash: 34717384
+  - XPos: 458
+  - Ypos: 449
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,209
+ball:
+  - Hash: 42931033
+  - XPos: 463
+  - Ypos: 565
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,209
+ball:
+  - Hash: 58366981
+  - XPos: 782
+  - Ypos: 451
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:35,210
+ball:
+  - Hash: 39086322
+  - XPos: 442
+  - Ypos: 258
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:35,210
+ball:
+  - Hash: 21647132
+  - XPos: 204
+  - Ypos: 53
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:35,210
+ball:
+  - Hash: 34717384
+  - XPos: 456
+  - Ypos: 450
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,225
+ball:
+  - Hash: 42931033
+  - XPos: 465
+  - Ypos: 566
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,240
+ball:
+  - Hash: 58366981
+  - XPos: 780
+  - Ypos: 453
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:35,240
+ball:
+  - Hash: 34717384
+  - XPos: 454
+  - Ypos: 451
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,241
+ball:
+  - Hash: 39086322
+  - XPos: 444
+  - Ypos: 261
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:35,241
+ball:
+  - Hash: 21647132
+  - XPos: 205
+  - Ypos: 52
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:35,241
+ball:
+  - Hash: 42931033
+  - XPos: 467
+  - Ypos: 567
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,256
+ball:
+  - Hash: 39086322
+  - XPos: 446
+  - Ypos: 264
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:35,271
+ball:
+  - Hash: 34717384
+  - XPos: 452
+  - Ypos: 452
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,272
+ball:
+  - Hash: 58366981
+  - XPos: 778
+  - Ypos: 455
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:35,272
+ball:
+  - Hash: 21647132
+  - XPos: 206
+  - Ypos: 51
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:35,272
+ball:
+  - Hash: 42931033
+  - XPos: 469
+  - Ypos: 568
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,272
+ball:
+  - Hash: 39086322
+  - XPos: 448
+  - Ypos: 267
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:35,287
+ball:
+  - Hash: 42931033
+  - XPos: 471
+  - Ypos: 569
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,303
+ball:
+  - Hash: 34717384
+  - XPos: 450
+  - Ypos: 453
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,303
+ball:
+  - Hash: 21647132
+  - XPos: 207
+  - Ypos: 50
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:35,303
+ball:
+  - Hash: 58366981
+  - XPos: 776
+  - Ypos: 457
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:35,303
+ball:
+  - Hash: 39086322
+  - XPos: 450
+  - Ypos: 270
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:35,304
+ball:
+  - Hash: 42931033
+  - XPos: 473
+  - Ypos: 570
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,318
+ball:
+  - Hash: 34717384
+  - XPos: 448
+  - Ypos: 454
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,334
+ball:
+  - Hash: 58366981
+  - XPos: 774
+  - Ypos: 459
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:35,334
+ball:
+  - Hash: 39086322
+  - XPos: 452
+  - Ypos: 273
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:35,334
+ball:
+  - Hash: 21647132
+  - XPos: 208
+  - Ypos: 49
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:35,335
+ball:
+  - Hash: 42931033
+  - XPos: 475
+  - Ypos: 571
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,335
+ball:
+  - Hash: 34717384
+  - XPos: 446
+  - Ypos: 455
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,350
+ball:
+  - Hash: 58366981
+  - XPos: 772
+  - Ypos: 461
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:35,365
+ball:
+  - Hash: 34717384
+  - XPos: 444
+  - Ypos: 456
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,365
+ball:
+  - Hash: 21647132
+  - XPos: 209
+  - Ypos: 48
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:35,366
+ball:
+  - Hash: 42931033
+  - XPos: 477
+  - Ypos: 572
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,366
+ball:
+  - Hash: 39086322
+  - XPos: 454
+  - Ypos: 276
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:35,366
+ball:
+  - Hash: 58366981
+  - XPos: 770
+  - Ypos: 463
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:35,381
+ball:
+  - Hash: 42931033
+  - XPos: 479
+  - Ypos: 573
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,396
+ball:
+  - Hash: 58366981
+  - XPos: 768
+  - Ypos: 465
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:35,397
+ball:
+  - Hash: 34717384
+  - XPos: 442
+  - Ypos: 457
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,397
+ball:
+  - Hash: 21647132
+  - XPos: 210
+  - Ypos: 47
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:35,397
+ball:
+  - Hash: 39086322
+  - XPos: 456
+  - Ypos: 279
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:35,397
+ball:
+  - Hash: 42931033
+  - XPos: 481
+  - Ypos: 574
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,412
+ball:
+  - Hash: 34717384
+  - XPos: 440
+  - Ypos: 458
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,428
+ball:
+  - Hash: 58366981
+  - XPos: 766
+  - Ypos: 467
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:35,428
+ball:
+  - Hash: 39086322
+  - XPos: 458
+  - Ypos: 282
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:35,428
+ball:
+  - Hash: 42931033
+  - XPos: 483
+  - Ypos: 575
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,429
+ball:
+  - Hash: 21647132
+  - XPos: 211
+  - Ypos: 46
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:35,429
+ball:
+  - Hash: 34717384
+  - XPos: 438
+  - Ypos: 459
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,443
+ball:
+  - Hash: 34717384
+  - XPos: 436
+  - Ypos: 460
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,459
+ball:
+  - Hash: 21647132
+  - XPos: 212
+  - Ypos: 45
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:35,459
+ball:
+  - Hash: 42931033
+  - XPos: 485
+  - Ypos: 576
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,460
+ball:
+  - Hash: 39086322
+  - XPos: 460
+  - Ypos: 285
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:35,460
+ball:
+  - Hash: 58366981
+  - XPos: 764
+  - Ypos: 469
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:35,460
+ball:
+  - Hash: 34717384
+  - XPos: 434
+  - Ypos: 461
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,475
+ball:
+  - Hash: 58366981
+  - XPos: 762
+  - Ypos: 471
+  - XSpeed: -2
+  - YSpeed: 2
+  - Date: sobota, 20 maja 2023 11:25:35,487
+ball:
+  - Hash: 42931033
+  - XPos: 487
+  - Ypos: 577
+  - XSpeed: 2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,487
+ball:
+  - Hash: 39086322
+  - XPos: 462
+  - Ypos: 288
+  - XSpeed: 2
+  - YSpeed: 3
+  - Date: sobota, 20 maja 2023 11:25:35,488
+ball:
+  - Hash: 21647132
+  - XPos: 213
+  - Ypos: 44
+  - XSpeed: 1
+  - YSpeed: -1
+  - Date: sobota, 20 maja 2023 11:25:35,488
+ball:
+  - Hash: 34717384
+  - XPos: 432
+  - Ypos: 462
+  - XSpeed: -2
+  - YSpeed: 1
+  - Date: sobota, 20 maja 2023 11:25:35,502

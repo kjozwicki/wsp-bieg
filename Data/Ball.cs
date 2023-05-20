@@ -19,6 +19,7 @@ namespace Data
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
         public double Weight { get; set; }
+        public bool TxtYaml { get; set; }
         public Ball( int xP, int yP)
         {
             Random rnd = new();
@@ -53,10 +54,16 @@ namespace Data
             this._ySpeed *= -1;
         }
 
+        public override void ChangeTxtYaml()
+        {
+            if (TxtYaml) TxtYaml = false;
+            else TxtYaml = true;
+        }
+
         public override void Update(Object o, PropertyChangedEventArgs p)
         {
-            //Logger.GetInstance().SaveDateAsTxt(_xPosition, _yPosition, _xSpeed, _ySpeed, this.GetHashCode());
-            Logger.GetInstance().SaveDateAsYaml(_xPosition, _yPosition, _xSpeed, _ySpeed, this.GetHashCode());
+            if (TxtYaml) Logger.GetInstance().SaveDateAsTxt(_xPosition, _yPosition, _xSpeed, _ySpeed, this.GetHashCode());
+            else Logger.GetInstance().SaveDateAsYaml(_xPosition, _yPosition, _xSpeed, _ySpeed, this.GetHashCode());
         }
     }
 }

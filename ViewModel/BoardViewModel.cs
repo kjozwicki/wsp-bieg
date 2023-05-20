@@ -11,12 +11,15 @@ namespace ViewModel
     {
         public ICommand StartCommand { get; set; }
         public ICommand StopCommand { get; set; }
+        public ICommand ChangeCommand { get; set; }
+        public string Txt = "Txt";
         public BoardViewModel()
         {
             viewModelBalls= new();
             WindowHeight = 720;
             WindowWidth = 1000;
             BoardModel = new BoardModel(WindowWidth, WindowHeight);
+            ChangeCommand = new RelayCommandBase(Change);
             StartCommand = new RelayCommandBase(Start);
             StopCommand = new RelayCommandBase(Stop);
         }
@@ -30,6 +33,13 @@ namespace ViewModel
                 _count = value;
                 OnPropertyChanged(nameof(Count));
             }
+        }
+
+        private async void Change()
+        {
+            if (Txt == "Txt") Txt = "Yaml";
+            else Txt = "Txt";
+            BoardModel.ChangeTxtYaml();
         }
 
         private async void Start()

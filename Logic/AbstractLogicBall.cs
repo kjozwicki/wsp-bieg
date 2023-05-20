@@ -15,6 +15,7 @@ namespace Logic
         public abstract double GetY();
         public abstract double GetRadius();
         public abstract String GetColor();
+        public abstract void ChangeTxtYaml();
         public static AbstractLogicBall CreateBall(AbstractBall b)
         {
             return new LogicBall(b);

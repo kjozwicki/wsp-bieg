@@ -23,6 +23,11 @@ namespace Model
             return BoardAPI.CreateBalls(_canvasWidth, _canvasHeight, ballCount); ;
         }
 
+        public void ChangeTxtYaml()
+        {
+            BoardAPI.ChangeTxtYaml();
+        }
+
         public void InterruptThreads()
         {
             BoardAPI.InterruptThreads();

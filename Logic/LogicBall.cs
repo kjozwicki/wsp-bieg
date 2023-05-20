@@ -71,5 +71,10 @@ namespace Logic
         {
             return ball.Color;
         }
+
+        public override void ChangeTxtYaml()
+        {
+            ball.ChangeTxtYaml();
+        }
     }
 }

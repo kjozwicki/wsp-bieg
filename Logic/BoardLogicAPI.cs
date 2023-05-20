@@ -13,7 +13,7 @@ namespace Logic
         }
 
         public abstract ObservableCollection<AbstractLogicBall> CreateBalls(double boardWidth, double boardHeight, int ballCount);
-
+        public abstract void ChangeTxtYaml();
         public abstract void InterruptThreads();
         
         public abstract void StartThreads();
@@ -88,6 +88,14 @@ namespace Logic
             public override void CheckCollisionsWithBalls(AbstractLogicBall ball)
             {
                 BallsCollission(ball);
+            }
+
+            public override void ChangeTxtYaml()
+            {
+                foreach (AbstractLogicBall b in ballsCollection)
+                {
+                    b.ChangeTxtYaml();
+                }
             }
 
             public override void InterruptThreads()
