@@ -61,19 +61,20 @@ namespace Data
             {
                 Thread t = new Thread(() =>
                 {
-                    Stopwatch timer = new Stopwatch();
-                    timer.Start();
+                    DateTime start = DateTime.UtcNow;
+                    DateTime end = DateTime.UtcNow;
                     while (true)
                     {
                         try
                         {
                             lock (locked)
                             {
-                                b.Move(timer);
+                                TimeSpan timeDiff = end - start;
+                                b.Move(timeDiff.TotalMilliseconds);
                             }
                             Thread.Sleep(15);
-                            timer.Reset();
-                            timer.Start();
+                            start = DateTime.UtcNow;
+                            end = DateTime.UtcNow;
                         }
                         catch (Exception e)
                         {

@@ -37,9 +37,9 @@ namespace Data
                 _ySpeed = rnd.Next(-3, 4);
             }
         }
-        internal override void Move(Stopwatch timer)
+        internal override void Move(TimeSpan timer)
         {
-            int mul = (int)timer.ElapsedMilliseconds / 1000;
+            int mul = (int)timer / 1000;
             this._xPosition += this._xSpeed + mul;
             this._yPosition += this._ySpeed + mul;
             OnPropertyChanged("Move");

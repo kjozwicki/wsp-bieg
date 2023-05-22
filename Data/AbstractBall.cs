@@ -14,7 +14,7 @@ public abstract class AbstractBall
         public int Radius;
         public string Color;
         public bool TxtYaml;
-        internal abstract void Move(Stopwatch timer);
+        internal abstract void Move(TimeSpan timer);
         public abstract void ChangeXDirection();
         public abstract void ChangeYDirection();
         public abstract void ChangeTxtYaml();
